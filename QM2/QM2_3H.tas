@@ -1,0 +1,62 @@
+console load flowerhouse/QM2/3_HotPotato
+   1
+
+#Start
+#lvl_1a
+ 110
+   1,S
+   1,D,J
+  34
+   4,D,X
+   1,L,J
+   3,L
+  43
+
+#lvl_0a
+   4,L
+   1,L,J
+  12,G
+  19,L,G
+  10
+   4,D,X
+  10,R,X
+   1,L,J
+   9,L,U,X
+  46,L,G
+   1,R,J,G
+  11,R,K,G
+   8,R,G
+   1,R,D
+   8,U,X
+  24,R,G
+   2,R,D
+   6,R
+  13,L,D,X
+   2,R,J
+   6,R,D,X
+  12,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  15,R,G
+   6,R,J,G
+   3,R,G
+   2,K,G
+   5,L,G
+   1,R
+  13
+   8,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+  13,R,K,G
+ 257
+   1,J
+  62
+   1,Q
+   1,J
+  31
+#restart is probably slower
+read,QM2_3A,Start

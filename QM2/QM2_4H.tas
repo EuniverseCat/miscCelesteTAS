@@ -1,0 +1,88 @@
+console load flowerhouse/QM2/4_TakeFive
+   1
+
+#Start
+#lvl_1a (1)
+  99
+  14,R,D,X
+   1,L,J
+  15,D,C
+  40
+#confirm is broken atm
+#lvl_1a_cas
+   1,S
+   1,D,J
+   1
+   1,J
+  71
+   1,R,J
+  10,L,D,X
+   1,L,J
+   4
+  15,D,X
+  10,L,C
+  17,J
+  15,L,U,X
+   8
+  12
+  10,L,J
+   5,J
+   4,D,X
+   1,L,X
+   2,L,J,G
+   5,L
+  10,L,J,G
+  46,L,D
+  15,D,C
+   4,D,X
+   8,L,X
+   1,L,J
+   2,L
+  16,L,X
+  15,D,C
+  15,D,X
+  15,D,C
+   4,D,X
+   6,L,X
+   3,L,J
+   3,J
+  15,L,X
+  12,D
+  15,D,C
+  15,D,X
+  11,J
+   5
+  24,U,X
+   2,R
+   1
+   4,D,C
+   8,R,C
+   1,L,J
+   4
+   1,L,J
+   3,J
+  15,L,J
+   3,L,K,G
+   5,K
+   2,L
+   1,J,G
+  13,L,J,G
+   6,L,K,G
+  15,L,U,X
+ 258
+   1,J
+ 123
+   7,U,X
+  43
+
+#lvl_1a (2)
+  10,R
+   4,J,G
+  15,R,X
+  15,D,C
+  12
+   4,R
+  15,R,J
+   1,J
+
+read,QM2_4A,4H

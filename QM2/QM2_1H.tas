@@ -1,0 +1,90 @@
+console load flowerhouse/QM2/1_TerminalVelocity
+   1
+
+read,QM2_1A,Start,1H
+
+   1,R,J,G
+  15,G
+  10
+   1,G
+   1,J
+   1,L,J
+   8,R,K,G
+   9,R
+
+   1,R,J
+   5,U,X
+  11,R,J
+  11,R
+   7,R,J
+  40
+
+#lvl_1a_cas
+   2,R,J
+   4,J
+   1,L,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+   1,J
+  13,L,J
+  15,U,X
+  13,L
+  64,L,G
+   4
+   4,J,G
+  13,K,G
+  24,R
+   4,D,X
+  15,R,U,X
+   1,R,J,G
+   1,R,K,G
+   4,L,K
+   6,R,K
+   1,R,J,G
+  10,R,K,G
+   5,R
+   5,R,J
+   5,R
+  15,U,X
+  12,L,J,G
+  12,L,K,G
+  12,L,J,G
+  25,R
+  24,R,U,X
+  59,G
+   4,J,G
+   3
+   7,R,X
+   8
+  14,R,D,X
+   7
+  11,R,C
+  21,L
+  15,L,U,X
+   5
+  13,L
+  14,L,U,X
+   6
+  18,U,X
+  11,R,U,C
+ 257
+   1,J
+  62
+   1,Q
+   1,J
+  31
+
+read,QM2_1A,Start
+
+
