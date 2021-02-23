@@ -45,8 +45,7 @@ read,QM2_1A,Start,1H
    4,J,G
   13,K,G
   24,R
-   4,D,X
-  15,R,U,X
+  19,R,U,Z
    1,R,J,G
    1,R,K,G
    4,L,K

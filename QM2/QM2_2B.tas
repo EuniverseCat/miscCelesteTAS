@@ -4,8 +4,7 @@ console hard flowerhouse/QM2/2_GlitchcatLake
 
 #lvl_0b
   76
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -85,22 +84,19 @@ console hard flowerhouse/QM2/2_GlitchcatLake
    1,R,J,G
   29,R,D
    1,D
-   4,D,X
-  10,R,X
+  14,R,Z
    2,R,J
   12,R
   14,R,X
   12,R
-   4,D,X
-  10,U,X
+  14,U,Z
   11,R,J
    3,R
   13,R,G
    8,R,G
    1,L
   11,R
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -134,12 +130,10 @@ console hard flowerhouse/QM2/2_GlitchcatLake
    1,R,K,G
   68,R,D
   12,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    2,J
    7,R
-   4,D,X
-   6,R,X
+  10,R,Z
    5,R,J
    7,R,U,X
   13,R,J
@@ -154,8 +148,7 @@ console hard flowerhouse/QM2/2_GlitchcatLake
   43
 
 #lvl_2b
-   4,D,X
-   1,R,X
+   5,R,Z
    1,R,J
    3,R
    1,R,J
@@ -185,8 +178,7 @@ console hard flowerhouse/QM2/2_GlitchcatLake
    1,R,K,G
    7,R,J,G
    9,R
-   4,D,X
-  11,R,X
+  15,R,Z
    9,L
   12,L,J
    5,K
@@ -196,8 +188,7 @@ console hard flowerhouse/QM2/2_GlitchcatLake
    9,L,U,C
    1,L,J,G
   20,L,D
-   4,D,X
-   6,L,X
+  10,L,Z
    9,L,J
    3,L
    1,L,J
@@ -208,8 +199,7 @@ console hard flowerhouse/QM2/2_GlitchcatLake
    8,J
   19,U,X
   29,L,J
-   4,D,X
-   2,L,X
+   6,L,Z
    1,L,J
    7,L
    1,L,J
@@ -256,8 +246,7 @@ console hard flowerhouse/QM2/2_GlitchcatLake
   13,L
   10,L,X
    5,J
-   4,D,X
-   5,U,X
+   9,U,Z
    1,R
    3
    2,R
@@ -279,8 +268,7 @@ console hard flowerhouse/QM2/2_GlitchcatLake
    1,R,J,G
   20,R,D
    8
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J

@@ -3,7 +3,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
 
 #lvl_0a
   91
-   4,D,X
+   4,Z
    1,R,J
    7,R
    6,R,J
@@ -25,13 +25,11 @@ console hard flowerhouse/QM2/5_SawrfingCastle
    4,R
    1,R,J
    3,R
-   4,D,X
-   2,L,D,X
+   6,L,D,X
    1,R,J
    6,R
    1,R,J
-   4,D,X
-   8,R,U,X
+  12,R,U,Z
    1,R,J,G
    4,R
    1,R,J
@@ -53,8 +51,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
   11,R,J
    4,J
   11
-   4,D,X
-  10,R,X
+  14,R,Z
   30,R,J
   17,R,X
    1,J
@@ -63,8 +60,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
    4
    1,J
   18,D
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
   15,R,D,X
   13,R
@@ -72,11 +68,9 @@ console hard flowerhouse/QM2/5_SawrfingCastle
   11,L,U,X
   23
   38,R,D
-   4,D,X
-  18,R,X
+  22,R,Z
   38,R
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
    4,R
    1,R,J
@@ -97,16 +91,14 @@ console hard flowerhouse/QM2/5_SawrfingCastle
   14,R,J
    4,J
   32,L,K
-   4,D,X
-  11,L,U,X
+  15,L,U,Z
    1,R,J,G
    9,J
    2,R,J
    1,R,K,G
    1,R,J,G
    9,R
-   4,D,X
-   2,R,X
+   6,R,X
    1,R,J
    7,R
    1,R,J
@@ -117,8 +109,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
   20,L,U,X
    7
   57,R,D
-   4,D,X
-  11,R,X
+  15,R,Z
   42,R,D
   37
   12,R
@@ -137,8 +128,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
    4,D,C
   10,R,C
   33,R,J
-   4,D,X
-  12,R,X
+  16,R,Z
    4,D,C
    2,R,C
    1,R,J
@@ -155,9 +145,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
   12,R
   10,R,J,G
   17,R
-   4,D,X
-
-  10,R,X
+  14,R,Z
    1,R,J,G
   28,R,D
   24,R,U,X
@@ -166,8 +154,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
    1,R,J
    7,R
   23,R,J
-   4,D,X
-  10,U,X
+  14,U,Z
 
   12,R,J
    2,J
@@ -187,13 +174,11 @@ console hard flowerhouse/QM2/5_SawrfingCastle
   11,R,D,X
    9,J
    1
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    2,R,J,G
    1
    1,K
-   4,D,X
-   1,R,X
+   5,R,Z
    1,R,J
    6,R
 
@@ -247,14 +232,13 @@ console hard flowerhouse/QM2/5_SawrfingCastle
    1
    1,D
    1
-   4,D,X
-  11,R,X
+  15,R,Z
   10,U,C
   27,R
   20,R,X
   15,R,D,C
    2,R
-   4,D,X
+   4,Z
    1,R,J
    6,R
   21,R,J
@@ -264,8 +248,7 @@ console hard flowerhouse/QM2/5_SawrfingCastle
    3,R,D
   14,R,X
    1,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
   14,R,J
   27,R
   15,R,X

@@ -25,13 +25,11 @@ console load flowerhouse/QM2/4_TakeFive
   13,R,U,X
    4,J
    9
-   4,D,X
-   4,L,X
+   8,L,Z
    1,R,J
    5,R
   20,R,J
-   4,D,X
-   5,R,X
+   9,R,Z
    3,R,J
    1
    1,R,J
@@ -47,7 +45,7 @@ console load flowerhouse/QM2/4_TakeFive
   14,R,D
    1,R
    3,R,D
-   4,D,X
+   4,Z
   10,R,J
    8,L,J
    8,L
@@ -59,8 +57,7 @@ console load flowerhouse/QM2/4_TakeFive
   15,U,X
    3
    7,L
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
   15,R,D,X
    7,R
@@ -80,8 +77,7 @@ console load flowerhouse/QM2/4_TakeFive
    1,L,K
   17,R,K
   16,R
-   4,D,X
-  10,R,X
+  14,R,Z
    8,R,J
   20,R
    1,R,J
@@ -158,8 +154,7 @@ console load flowerhouse/QM2/4_TakeFive
    8,R
    5,R,J
    2,R
-   4,D,X
-   1,R,X
+   5,R,Z
    1,R,J
    6,R
   10,R,J

@@ -27,23 +27,20 @@ console load flowerhouse/QM2/4_TakeFive
   12
   10,L,J
    5,J
-   4,D,X
-   1,L,X
+   5,L,Z
    2,L,J,G
    5,L
   10,L,J,G
   46,L,D
   15,D,C
-   4,D,X
-   8,L,X
+  12,L,Z
    1,L,J
    2,L
   16,L,X
   15,D,C
   15,D,X
   15,D,C
-   4,D,X
-   6,L,X
+  10,L,Z
    3,L,J
    3,J
   15,L,X

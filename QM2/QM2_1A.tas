@@ -9,8 +9,7 @@ console load flowerhouse/QM2/1_TerminalVelocity
   82,R,D
 #1H
    3,R
-   4,D,X
-  14,R,U,X
+  18,R,U,Z
    1,L
    1,K
   65,J
@@ -34,7 +33,7 @@ console load flowerhouse/QM2/1_TerminalVelocity
    5,D,X
    1,R,J
   24,R
-   4,D,X
+   4,Z
    1,L,J
    5,L
    5,L,D
@@ -46,8 +45,7 @@ console load flowerhouse/QM2/1_TerminalVelocity
   23,L,D
   18,D
  128,R,D
-   4,D,X
-  11,R,X
+  15,R,Z
    7,R
   81,L,D
   17,R,D
@@ -75,8 +73,7 @@ console load flowerhouse/QM2/1_TerminalVelocity
   28,D
   24,R,D
   18,D
-   4,D,X
-   5,R,X
+   9,R,Z
   17,R,U,C
   17,R,U,X
   15,R,C
@@ -100,7 +97,7 @@ console load flowerhouse/QM2/1_TerminalVelocity
    8,R
   22,R,D,X
   47,L,D
-   4,D,X
+   4,Z
    2,L,J
    4,L
    9,L,J
@@ -163,5 +160,4 @@ console load flowerhouse/QM2/1_TerminalVelocity
   38,D,X
   23,R
    7,R,J
-   4,D,X
-  70,R,X
+  74,R,Z

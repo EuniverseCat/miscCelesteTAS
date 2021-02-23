@@ -4,8 +4,7 @@ console load flowerhouse/QM2/2_GlitchcatLake
 #Start
 #lvl_1a
   69
-   4,D,X
-   1,L,D,X
+   5,L,D,X
    1,R,J
    1,R
    1,R,J
@@ -48,15 +47,13 @@ console load flowerhouse/QM2/2_GlitchcatLake
   14,R,U,X
    1,R,J,G
   47,R,D
-   4,D,X
-   3,R,X
+   7,R,Z
    1,R,J
    7,R
    6,R,D,J
    5,R
   10,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
   14,R,D,X
    1,R,J
@@ -79,7 +76,7 @@ console load flowerhouse/QM2/2_GlitchcatLake
    6,L,D,C
    1,L,J,G
   14,L
-   4,D,X
+   4,Z
    1,L,J
   16,L
   15,D,X
@@ -133,21 +130,18 @@ console load flowerhouse/QM2/2_GlitchcatLake
    1,L,J,G
    6,L,K,G
   16,L
-   4,D,X
-  10,L,X
+  14,L,Z
    1,R,J
   39,L,J
    1,L,D,J
    4,L,J,G
    3,L,D,J
   11,L,D
-   4,D,X
-  11,L,X
+  15,L,Z
    4,D,C
   11,L,C
   48
-   4,D,X
-   2,L,X
+   6,L,Z
    1,R,J
    6,R
    2,R,J
