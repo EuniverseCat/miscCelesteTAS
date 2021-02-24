@@ -221,13 +221,11 @@ console load flowerhouse/QM2/5_SawrfingCastle
   15,L,X
   19,L,G
    1,J,G
-***s
    7
-
-   2,R
-   5,R,D,X
+   5,R
    1,J
    1,L,K,G
    1,L,J,G
-  25,R,J
-  14,U,X
+  11,R,J
+   5,R
+  14,R,U,X
