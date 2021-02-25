@@ -48,9 +48,8 @@ read,QM2_5A,Start,5H1
    7,R
    1,R,J
    3,R,J
-   2,J
-   7
-  13,L,Z
+   9,J
+  10,L,Z
    2,L,J
    9,L,K,G
    2,L
