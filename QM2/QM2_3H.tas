@@ -17,11 +17,13 @@ console load flowerhouse/QM2/3_HotPotato
    1,L,J
   12,G
   19,L,G
-  10
-  14,R,Z
+   1,L
+   1,R,J
+   6,L
+  14,R,D,X
    1,L,J
    9,L,U,X
-  46,L,G
+  47,L,G
    1,R,J,G
   11,R,K,G
    8,R,G
@@ -33,7 +35,7 @@ console load flowerhouse/QM2/3_HotPotato
   13,L,D,X
    2,R,J
    6,R,D,X
-  12,R,G
+  13,R,G
    1,R,J,G
   14,R,G
    1,R,J,G

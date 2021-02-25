@@ -12,28 +12,27 @@ console load flowerhouse/QM2/3_HotPotato
    7,R
    1,R,J
   13,R,J,G
-   3,L,J,G
-  35,L,G
+   4,J,G
+  34,L,G
   11,L,J,G
    1,L,G
    3,R,G
    1,R
-  46,R,D
-   1,D
+  47,R,D
    1,R,J
   13,L,D,X
    1,R,J
    1,J
    5,R,D,X
-  12,R,G
+  13,R,G
    1,L,J,G
    1,R,J,G
    8,R,G
   12,R,J,G
    1,R
   12,U,X
-  12,R,G
-   9,R,G
+  13,R,G
+   8,R,G
    1,R
   17,D
   11,R,D
@@ -41,27 +40,26 @@ console load flowerhouse/QM2/3_HotPotato
    9
 
    1
-  20,L,J
+  19,L,J
   14,R,D,X
    1,R,J
    8,R,K,G
-  12,R,G
+  13,R,G
   11,R,G
    9,R
   24
    3,R
    9,R,J
   24,R,U,X
-  12,R,G
-   7,R,G
+  13,R,G
+   6,R,G
    2,R,J,G
-   2,R,D,J
-   7,R
-   1
+   1,R,D,J
+  10,R
   14,L,D,X
    1,R,J
    6,R,D,X
-  12,R,G
+  13,R,G
    1,R,J,G
   10,R,G
   13,R,J,G
@@ -78,7 +76,7 @@ console load flowerhouse/QM2/3_HotPotato
    1,R,K,G
    1,R,J,G
    8,R
-  16,R,G
+  17,R,G
    2,R,J,G
    9,R,G
    1
@@ -86,23 +84,27 @@ console load flowerhouse/QM2/3_HotPotato
    3,R
    1,R,K,G
    3,R,J,G
-  15,R,J,G
+  16,R,J,G
    7,R,G
    1,R,J,G
   14,R,G
    1,R,J,G
   14,R,G
    1,R,J,G
-  20,R,G
-  13,R,J,G
-   7,R,J
-   7,R,Z
-  18,R,J
-  17,K
-   5,L,K
-   6,R,Z
+  14,R,G
+   9,R,J,G
+  14,R,J
+   4,D,X
+   4,R,U,X
+   1,L
+   8,J,G
+  12,R,J
+   1,K
+  17,R,K
+   4,D,X
+   1,R,X
    1,R,J
-  29,R,G
+  30,R,G
    1,R,J,G
   11,R,G
    1,R
@@ -117,14 +119,14 @@ console load flowerhouse/QM2/3_HotPotato
    8,R
    3,R,D
    5,R,U,X
-  12,R,G
+  13,R,G
    9,R,G
    1,R,D
-   5,R
+   6,R
   14,L,D,X
    1,R,J
    8,R,D,X
-  12,R,G
+  13,R,G
    1,R,J,G
   14,R,G
    1,R,J,G
@@ -152,29 +154,30 @@ console load flowerhouse/QM2/3_HotPotato
    2,R,J
   13,L,D,X
    1,R,J
-  20,R,G
+  21,R,G
    1,R,J,G
   31,R,D,G
    1,R,D
   14,L,D,X
    1,R,J
    9,R,D,X
-  12,R,G
+  13,R,G
    1,R,J,G
-   2,R,G
+   5,R,G
    1,G
-   6,R,G
+   3,R,G
    1,R,J,G
    9,R,G
    1,R
-  15,R,Z
+   4,D,X
+  11,R,X
    3,R,D
    8,L,D
   36,R,D
   14,L,D,X
    1,R,J
    6,R,D,X
-  12,R,G
+  13,R,G
    1,R,J,G
   14,R,G
    1,R,J,G
@@ -188,15 +191,16 @@ console load flowerhouse/QM2/3_HotPotato
    1,G
    9,R,G
 
+
   11,R,J,G
    1,R,D,J
   11,U,X
-  21,G
+  22,G
    1,L,D
    4,L,J,G
    1,K,G
    8,K
-  12,J,G
+  13,J,G
 
    1,R,K,G
    7,R,J,G
@@ -206,19 +210,22 @@ console load flowerhouse/QM2/3_HotPotato
    2,R,G
    1,R
   14,U,X
-  38,R,G
+  39,R,G
    6,R
   16,R,X
    4,D,C
    1,R,J
-  12,R,G
-  10
-   8,L,Z
+  13,R,G
+   3,R
+   6
+   4,D,X
+   4,L,X
    1,L,J
    7,L
   10,L,J
   21,L
-  30,L,Z
+   4,D,X
+  26,L,X
    1,L,J
   15,L,D,X
    1,L,J
