@@ -185,7 +185,7 @@ console rmx2 flowerhouse/QM2/5_SawrfingCastle
    6,R
   80,D,X
   48
-***
+
 #lvl_2c
   49,R,D,X
    4,Z
@@ -211,12 +211,122 @@ console rmx2 flowerhouse/QM2/5_SawrfingCastle
    3,R,K,G
   11,R,J,G
    5,R
+#i hate this
   14,R,Z
    1,R,J
    7,R
-   7,R,J
-   3,R,K,G
- 100,R,U,Z
- 100,R
+  11,R,J
+  20,R,U,X
+   5,R,J,G
+   1,K,G
+   4
+   2,R
+   1,L
+   1,L,J
+  10,R,X
+   1,R,J
+   4,J
+  15,R,U,X
 
- 100
+#   7,R,D
+#  15,D
+#  10,R,D,X
+#   1,R,J
+#   4,R
+#  13,R,Z
+#   3,R,J
+#  35,R,D,X
+# 100,R,U,C
+# 100,R,J
+
+  22,R,D
+  10,R,Z
+   1,R,J
+   8,R
+   3,R,J
+  25,R,D,X
+  10,R,D
+  11,R,U,C
+   1,R,K,G
+  11,R
+  20,R,J
+  24,R,X
+  18,L,C
+  12
+  15,R,X
+  13,R,Z
+
+
+
+#  12,L,J
+#   5,L
+#   2,L,J
+#   6,L
+#   1
+#  14,L,U,X
+#   1,J,G
+#   5
+#  20,R,D
+#   9,D
+#   5,R,Z
+#   1,R,J
+#   3,R
+#   1,R,J
+#   3,R
+#   2,R,J
+#  15,R,D,X
+#   1,R,J
+#  15,R,D,C
+#   1,R,D
+
+  15,L,J
+  10,L
+  14,L,U,X
+   1,J,G
+   2,L
+  20,R,D
+   9,D
+   1
+   1,D
+   1
+   6,Z
+   1,R,J
+   6,R
+   2,R,J
+  15,R,D,X
+#terrible
+   0,R,J
+  15,R,D,C
+   1,R,D
+   1,R,K
+   2,R
+   1,R,J
+  17,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+   1,R,J
+   4,R
+  35,R,U,X
+  15,R,U,C
+ 130,R,D
+
