@@ -1,0 +1,127 @@
+#console load A2/Map
+console load DeathKontrol/UltraSkool
+   1
+
+#lvl_a-01
+  69
+   4,D,X
+  10,R,X
+   1,R,J
+  16,R,D,X
+  27,R,J
+   8,R
+   3,R,D
+   1,R
+  14,R,U,X
+   1,R,J,G
+   9
+   4,D,X
+  10,L,X
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+   1,R
+  17,R,D,X
+   3,R,J
+  15,R,D,X
+  21,R,J
+   1
+  13,R
+   4,D,X
+  10,R,U,X
+   1,R,J,G
+   7,R,J
+  40
+
+#lvl_b-00
+   1,R,J
+  21,R,D,X
+   3,R,J
+  15,R,D,X
+   3,R,J
+  15,R,D,X
+   3,R,J
+  15,R,D,X
+   6,R,J
+   9,R
+#713 @ 718
+#741 @ 854
+
+   8
+  14,R,U,X
+   1,J,G
+   4,J
+  40
+
+#lvl_b-01
+   1
+   2,R
+  53,R,D,X
+   3,D
+   1,R,D
+   1,R
+  26,R,D,X
+   1,R,J
+   1,J
+  10,R,J
+  21,R
+  14,R,U,X
+   6,R,J,G
+  40
+
+#lvl_b-02
+   3,R,J
+  15,R,D,X
+   9,R
+   5,R,J
+   4,R
+  15,R,D,X
+   6,R
+   7,R,J
+  15,R,D,X
+   9,R,J
+  18,R
+   1
+  14,R,U,X
+   5,R,J,G
+  40
+
+#lvl_b-03
+   1,R,J
+  15,R,D,X
+   2,R
+   3
+   1,R,J
+  22,R,D,X
+   1
+   4,R
+   1,R,J
+   1,R
+  20,R,D,X
+   1,R,J
+  19,R,D,X
+   1,R,J
+  19,R,D,X
+  11,R,K
+   5,R
+   2,R,J
+  14,R
+  14,R,U,X
+   3,R,J,G
+  40
+
+#lvl_b-04
+  22,R,J
+  15,R,D,X
+ 119,R
+   4,R,D
+  40
+
+#lvl_b-05
+   9,R,U,X
+   2,R,J,G
+   7,R
+  15,U,X
+ 130,D
