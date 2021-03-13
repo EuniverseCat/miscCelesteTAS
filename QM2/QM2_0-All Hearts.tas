@@ -1,0 +1,66 @@
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+EnforceLegal
+Unsafe
+   1,D
+   1,J
+  70
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,J
+   1,R
+   1,D
+   1,R
+   1,J
+   1,R
+   1,F,90
+   1,R
+   1,J
+   1,L
+   1,U
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,J
+   1,S
+  48
+   1,U
+   1,J
+   1
+read,QM2_0.tas,Start
+
+ 173
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+
+read,QM2_1H.tas,Start
+
+read,LoadAFromAHeart
+
+read,QM2_2H.tas,Start
+
+read,LoadAFromAHeart
+
+read,QM2_3H.tas,Start
+
+read,LoadAFromAHeart
+
+read,QM2_4H.tas,Start
+
+read,LoadAFromAHeart
+
+read,QM2_5H.tas,Start
