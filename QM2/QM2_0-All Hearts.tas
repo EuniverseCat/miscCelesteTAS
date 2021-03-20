@@ -47,20 +47,131 @@ read,QM2_0.tas,Start
    1,J
  136
 
-read,QM2_1H.tas,Start
+read,QM2_1H,Start
 
 read,LoadAFromAHeart
 
-read,QM2_2H.tas,Start
+read,QM2_2H,Start
 
 read,LoadAFromAHeart
 
-read,QM2_3H.tas,Start
+read,QM2_3H,Start
 
 read,LoadAFromAHeart
 
-read,QM2_4H.tas,Start
+read,QM2_4H,Start
 
 read,LoadAFromAHeart
 
-read,QM2_5H.tas,Start
+read,QM2_5H,Start
+
+  60
+   1,J
+ 196
+Add 197
+ 165
+   1,J
+  32
+Add 7
+  51
+   1,S
+ 173
+   1,L
+   9
+   1,L
+   9
+   1,L
+   9
+   1,L
+   9
+   1,L
+   9
+   1,J
+  43
+   1,R
+   1,J
+ 304
+
+read,QM2_1B,Start
+
+read,LoadB
+
+read,QM2_2B,Start
+
+read,LoadB
+
+read,QM2_3B,Start
+
+read,LoadB
+
+read,QM2_4B,Start
+
+read,LoadB
+
+read,QM2_5B,Start
+
+   1,S
+   1,U,J
+   1,O
+  32
+Add 58
+ 306
+   1,J
+ 188
+
+#1C
+   1,S
+  52
+   1,X
+  42
+   1,L
+   9
+   1,L
+   9
+   1,L
+   9
+   1,L
+   9
+   1,J
+  43
+   1,R
+   1,F,90
+   1,J
+  46
+
+read,QM2_1C,Start
+
+read,LoadC
+
+read,QM2_2C,Start
+
+read,LoadC
+
+read,QM2_3C,Start
+
+read,LoadC
+
+read,QM2_4C,Start
+
+read,LoadC
+
+read,QM2_5C,Start
+
+   1,S
+   1,U,J
+   1,O
+  32
+Add 58
+  52
+   1,S
+  52
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+  46
+
+read,incredibly serious epilogue TAS,Start
