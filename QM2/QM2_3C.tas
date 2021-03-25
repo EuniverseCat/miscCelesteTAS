@@ -84,43 +84,46 @@ console rmx2 flowerhouse/QM2/3_HotPotato
    6,R
   14,R,X
    1,R,J,G
-  44,R,D
-  10,L,X
-   2,R,J
-   7,R
+  16,R,D
+  28,D
+  10,R,X
+   4,R,J
+   1,J
   12,R,U,X
-  12,R,J,G
-  31,R,D
-   8,R,J
-   5,R
-   3,R,J
-  18,U,X
-  13,R,U,C
    1,R,J,G
-  42,R,D
-   3,R,J
-
-
-   6,R,D,X
-   1,R,J
+   1
+   9,R,D
+   8,L,D
+   3,L
+  15,L
+   1,R
+   1,R,J,G
+   9,R,K,G
    7,R
-
-  12,R,D,J
-   5,K,G
+   1,R,J
+   0,R
+  23,R,U,X
+  11,R,C
    1,R,J,G
-   4,L,J
-   8,R,J
-   1,R,K,G
-   8,R,J,G
-  22,R,D,X
+   1,J
+   1
+  36,R,D
+   1,R
+   1,R,D
+   3,R
+  12,R,J
+  14,R,U,X
+   4,R,J,G
+   5
+  23,R,D
    4,D,C
    2,R,C
    1,R,J
    7,R
    1,R,J
-  13,R,U,X
-  20,J
-   4,R,J
+  14,R,U,X
+  21,J
+   3,R,J
   21,R,U,X
    3
    4,D,C
