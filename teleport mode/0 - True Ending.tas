@@ -25,9 +25,13 @@ Read,tele4A,Start
 
 Read,LoadANoCollects
 
-Read,tele5A,Start
+Read,tele5HC,Start
 
-Read,LoadA
+Read,LoadBFromA
+
+Read,tele5B,Start
+
+Read,LoadAFromB
 
 Read,tele6A,Start
 
