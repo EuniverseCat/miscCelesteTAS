@@ -38,7 +38,7 @@ console load 6
    1,S
    1,D,J
   37
-***
+
 #lvl_00
    5,U,X
   43
@@ -292,7 +292,6 @@ console load 6
 #lvl_b-03
    6
   40
-
 #lvl_boss-00
    7
    5,R,D,X
@@ -311,16 +310,15 @@ console load 6
   15,D,X
    7,R,C
   40
-
 #lvl_boss-01
   19,L,J
   50,L,D
    5,R,X
    1,L,J
-  43
+  41
    5,R,U,X
   36,L,D
-  43
+  41
   15,D,X
    6,R,C
    1,J,G
