@@ -1,6 +1,7 @@
 console load 6
    1
 
+#Start
 Read,tele6A,Start,lvl_04
 
   11
@@ -41,8 +42,3 @@ Read,tele6A,Start,lvl_04
    3,R,J
  257
    1,J
-  62
-   1,S
-   1,U,J
-   1,O
-  31
