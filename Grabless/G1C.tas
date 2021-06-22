@@ -143,12 +143,11 @@ console rmx2 1
    4,R,D,X
    1,R,J
    8,R
-   7,R,D,J
-   5,L,K
-   1,R,J
-   6,R,K
+
+   8,R,D,J
    5,R
-  15,R
+   2,R,J
+   5,R
   15,U,Z
    1,R
   37,L,J
