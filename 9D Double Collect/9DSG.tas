@@ -1,0 +1,215 @@
+EnforceLegal
+   1,Q
+   1,J
+  31
+
+#Start
+read,9D_01G,Start
+
+#Peaceful Solitude
+read,9D_02G,Start
+
+#Glimpse of Freedom
+read,9D_03,Start
+
+#Curiosity
+read,9D_04G,Start,key cycle 1
+   5
+read,9D_04G,resume 1,key cycle 2
+  12
+read,9D_04G,resume 2,key cycle 3
+  21,G
+read,9D_04G,resume 3
+
+#Dedication
+read,9D_05,lvl_d-02
+
+#Memories
+read,9D_06G,Start
+
+#Creation
+read,9D_07GS,lvl_dd-02
+
+#Exploration
+read,9D_08,Start,spike cycle
+   1
+read,9D_08,resume
+
+#Depression
+read,9D_09,Start
+
+#Trust
+read,9D_10,Start
+
+#Serenity
+read,9D_11,Start
+
+#Revisit
+read,9D_12GS,Start,spike cycle
+   0
+read,9D_12GS,resume
+
+#Black Karma
+read,9D_13S,Start,key cycle
+   9,D
+read,9D_13S,resume
+
+#Scattered Mirror of the Storm
+read,9D_14GS,Start
+
+#Sunrise Running
+read,9D_15S,Start
+
+#Goodbye of the Mountain
+read,9D_16G,Start
+
+#Heart Beating and Realization
+read,9D_17,Start
+
+#Parting
+read,9D_19,Start
+
+#Plural
+read,9D_20,Start
+
+#True Love
+read,9D_21,Start
+
+#Reunification
+read,9D_22GS,Start,key cycle 1
+   8,G
+read,9D_22GS,resume 1,key cycle 2
+   5
+read,9D_22GS,resume 2
+
+#Infinity
+read ,9D_28G,Start,c1
+
+  13,D
+read,9D_28G,r1,c2
+  22
+   3,R
+read,9D_28G,r2,c3
+   2,R,D
+   2
+   2,R,D
+   2
+   2,R,D
+read,9D_28G,r3,c4
+  27
+read,9D_28G,r4,c5
+   2
+   2,R,D
+   2
+   2,L,D
+   2
+   2,R,D
+   2
+   2,L,D
+   1
+read,9D_28G,r5,c6
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+read,9D_28G,r6,c7
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+read,9D_28G,r7,c8
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+read,9D_28G,r8,c9
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+read,9D_28G,r9,c10
+  19,L,D
+read,9D_28G,r10,c11
+  13
+   4,R
+   1
+
+read,9D_28G,r11
+
+#Point of No Return
+read,9D_23,lvl_w-02
+
+#Edge of the Universe
+read,9D_24G,Start
+
+#Bottomless
+read,9D_25G,Start
+
+#Final Goodbye
+read,9D_26G,Start
+
+#Go Away
+read,9D_27DC,Start

@@ -1,0 +1,198 @@
+console load nameguysdsidespack/0/10-Farewell 36709 -4968
+
+#console load nameguysdsidespack/0/10-Farewell 47073 -5472
+#play,Section Auto,37
+
+   1
+
+#lvl_d-09
+  36
+   4,X
+   6,R,J
+  40,J
+
+#Start
+
+read,9D_06_,lvl_d-10 <SectionStart=0.000>,lvl_d-12 <SectionStart=26.265>
+
+   1,R,J
+  14,U,X
+   5,R,J
+   1,R,K,G
+   5
+   2,R
+   4,D,X
+   1,L,X
+   1,R,J
+   4,R
+   7,R,J
+   9,R
+   1,R,J
+  11,R
+   4,D,X
+   9,R,X
+  28,R,C
+  14,R,U,X
+  15,R,D,C
+  17,R,X
+  24,R,C
+   4,D,X
+  12,R,U,X
+   1
+  28,R,D,C
+  14,R,X
+  20,R,D
+  25,U,X
+  13,R,C
+  27,D,X
+   4,D,C
+  13,R,C
+  12,R,C
+   4,D,X
+  22,R,X
+  27,R,C
+  18,L,U,X
+  14,L,C
+  32,L,U,X
+  40
+
+#lvl_d-12s (KEY) <SectionStart=34.153>
+  42
+   9,R,X
+  96
+   4,L
+  12,R,D
+   2,D
+   4,D,X
+   1,R,J
+   2
+  20,R,D
+  40
+
+#lvl_d-12 (2) <SectionStart=37.757>
+  10,R,D
+   9,D
+  27,R,U,C
+  26,R,X
+ 128,R,C
+  23,R,D,X
+   1,R,J
+   7,R,D,X
+   7,R,J
+   4,R
+   2,R,J
+   4,D,X
+   7,R,U,X
+  40
+
+read,9D_06_,lvl_d-13 <SectionStart=42.568>,lvl_d-19 <SectionStart=130.424>
+   2,R
+   2,R,J
+   3,J
+   1
+   9,R,K,G
+   4,R,J,G
+   5,R,D,X
+   1,R,J
+   6,R
+   1,R
+  25,R,J
+   1,J
+   1,L,D,K
+   2,R,K
+   1,K
+  19,L,D
+  17,R,D,X
+
+
+   2
+  25,R,C
+   4,D,X
+  14,U,X
+  17
+  14,R,U,C
+  10,R,J,G
+  15,R,X
+  37,R,D
+  15,R,X
+  10,R,U,C
+  24,U,X
+  23,R,C
+  15,R,D,X
+  15,D,C
+  10,L,D
+   1,L,G
+   1,L,J
+   6,L
+  39,R,X
+   4,D,C
+  10,R,U,C
+   1,J
+  10
+   1,J
+  10
+   1,J
+  11
+   1,J
+  11
+   1,J
+  14
+   9,J
+   2
+   1,R,K
+   3,R,J
+   2,R
+   1,R,J,G
+   5,R,K,G
+   6,R
+  10,R,J
+   3,R
+   3
+   1,R
+   5,R,J
+  15,U,X
+   2
+   6,L,D
+   2,L,G
+  19
+  10,R
+  21,U,C
+  81,R,X
+   7,R,D,C
+  30,U,X
+  35,R,C
+  15,R,X
+  24,R,D
+   4,D,X
+  22,R,X
+  12,R,J,G
+   8,K
+   1,L,K
+   1,R,J,G
+   2,R,K,G
+   8,R
+  14,R,X
+   7,R,J,G
+  17,R,X
+   7,R,D,C
+  40
+   7,R,D
+   3,R,J
+   1
+   8,R,K,G
+   1,R,K
+  10,R,X
+   9,R,J,G
+   2,R
+   5
+   9,R,J
+   1
+   1,R
+   1
+  18,R,D,X
+   6,R,D
+
+   4,D,C
+   1,R,J
+   1,R
+  40

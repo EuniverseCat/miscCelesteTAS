@@ -1,0 +1,576 @@
+console load nameguysdsidespack/0/10-Farewell 145652 -39958
+   1
+
+  36
+   4,R,J,G
+  40
+
+#Start
+
+
+read,9D_16_,Start,CP-45
+
+#CP-45
+   1,R,J
+  14,R
+  11,R,J
+   9,R
+   1,R,J
+   2,R
+   1,R,G
+   3,R,J,G
+  12,R
+   3,R,D
+   1,R
+   1,R,D
+   4,D,X
+  29,R,X
+   4,R,D
+   4,D,C
+  17,R,C
+  40,R
+  43,R,U,X
+  21,R,C
+  25,R,U,X
+  15,L,J
+   7,J
+   7,K,G
+   2,L,J,G
+   3,L
+   1,L,K,G
+   1,L,J,G
+  10,L
+  15,L,J
+   6,J
+  11,K,G
+   1,R,K
+   2,J
+   7,R,J
+  12,L,K
+   6,J,G
+   1,R,J
+#frame tie with wallbouncing here
+   6,K
+   4,R,K
+   4,R,J,G
+   6,J
+   8,R,K
+   8,J
+   8,K
+   8,J
+   8,K
+   7,J
+   1,L,K,G
+   3,L,J,G
+
+#CP-44
+   8,L,G
+
+#i am NOT resyncing flag 42
+  11,L,D
+
+  31,L,G
+  14,U,X
+  10,R,J
+   9,L,J
+   1,L,K,G
+  36,L,G
+  16,U,X
+  45,L,J
+   2
+   2,L,D
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   5,L
+   7
+   4,D,X
+  11,L,X
+   1,R
+  17,L
+   4,D,X
+  12,L,X
+   1,R,J
+  10,L,J
+  21,L,D
+   1,L,J
+  14,L
+   1,L,J
+  17,L
+   3,L,D
+  31,R,D
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+  25,G
+   5,U,X
+  51,L,J
+   7,R
+   4,R,D
+  15,R,G
+   1,L,J
+   7,U,X
+  42,L,J
+  19,L,G
+   5,J,G
+   1,L,J
+   2,R,J
+  44,R,K
+  24,R,G
+   6,J,G
+   2,L
+  44,L,K
+  22,L,G
+   6,J,G
+   1,R,J
+   1,R,J
+  53,R,K
+  22,R,X
+
+
+   6
+
+#im suing this checkpoint
+#for psychological abuse
+#NOTHING lines up right
+#closest i can get to gem
+#without a ton of waiting
+#is 2.75 px off
+#inputs for that commented
+#CP-42
+   4,D,C
+  10,R,C
+   1,R,J
+  19,R
+   1,R,D
+   1,R
+   1,R,D
+  19,R
+  22,R,X
+  26,R,U,C
+
+
+#atrocious
+#awful
+#cheap
+#crummy
+#dreadful
+#you get the idea
+  15,R,U,X
+  10
+  25,R
+   4,D,X
+  34,R,U,X
+  33,R,C
+   4,D,X
+#i actually have to resync this fucking checkpoint
+#this is the least fun i have ever had TASing Celeste
+#and i did stubbornness
+#not to mention 6B before reflection rendering was made not shit
+#im putting the rest of the adjectives here to honor that
+
+#lousy
+#poor
+#rough
+#sad
+#unacceptable
+#blah
+#bummer
+#diddly
+#downer
+#garbage
+#gross
+#imperfect
+#inferior
+#junky
+#synthetic
+#abominable
+#amiss
+#bad news
+#beastly
+#bottom out
+#careless
+#cheesy
+#crappy
+#cruddy
+#defective
+#deficient
+#dissatisfactory
+#erroneous
+#fallacious
+#faulty
+#godawful
+#grody
+#grungy
+#icky
+#inadequate
+#incorrect
+#not good
+#off
+#raunchy
+#slipshod
+#stinking
+#substandard
+#the pits
+#unsatisfactory
+  28,R,U,X
+   8
+  23,R,C
+   4,D,X
+  28,R,U,X
+  29,R,U,C
+  38,R,U,X
+  13,D
+   5
+   4,D,X
+  21,R,X
+   4,D,C
+  15,U,C
+   3,R
+  16,R,X
+  33,R,C
+  18,R,X
+  15,U,C
+   1,L,J,G
+  32,G
+   8,J,G
+  10,L,K,G
+   8,L,J,G
+   8,L
+   1,L,J,G
+  11,L,K,G
+   5,L
+   8,L,J
+   4,D,X
+   9,U,X
+   7,L,J
+  14,J
+  16,R,U,X
+  12,U,C
+  21,L,J
+   1,J
+  15,U,C
+  17,U,X
+   9,R
+  15,L,U,X
+  11,U,C
+#ugly resync
+   2,R,J
+   4,R
+  40
+
+read,9D_16_,lvl_q-03,CP-37
+
+#CP-37
+   1,R,J
+  21,R
+   1,R,J
+  26,R,D
+   8,R
+  15,R,X
+   8,R
+   7,U,X
+   2,R,J
+   5,L,J
+   2,L,U
+   8,R,U
+   9,R,D
+   8,R
+   1,R,U
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+   9,R,K
+  52,R,D
+  31,R
+   3,R,D
+  28,R
+  30,R,U
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+  16,R
+   1,J
+   1,R,J
+  12,D
+  20,R,D
+  10,R
+  14,R,U
+   4,U
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   5,R,K
+  16,R
+   1,R,J
+  17,R
+  12,R,K
+  20,R
+   3,R,D
+   4,D,X
+  11,R,X
+   2,R
+   4,R,K,G
+  12,R,D
+  16,L,D
+   3,R,D
+   1,R,J
+  26,R,K
+  11,J,G
+   2,L,J
+  10,R,K,G
+  10,R
+  10,L
+   8,L,D
+  45,R,J
+   4,J
+   8,K,G
+   2,L,K
+   9,R,J,G
+  27,R,D
+   8,R,J
+   9,R,K
+  24,R
+   3,R,J
+  11,R
+  11,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+  22,R
+ 123,R,J
+  15,J
+  17,U,X
+   5,L,J
+  40
+#lvl_q-04
+   1,J,G
+   8
+   2,R
+   4,D,X
+  10,L,J
+  10,L,K,G
+   5,L
+   2,L,J
+   3,L
+   1,L,J
+  14,L
+   2,L,J
+  12,L
+   2
+  16,R
+   1,J
+  24,L,J
+  19,R,K
+  10,R
+   4,R,J
+  20,R
+   7,R,J
+  21,R
+  14,L,X
+  24,L,J,G
+  20,L,G
+   4
+  12,L,J,G
+  38,L,G
+   3
+   5,R,K
+   8,R,J
+  19,R
+  10,R,J,G
+   8,R,G
+  15,R,U,G
+  14,G
+   5,J,G
+   3
+   3,R
+   1,L
+   8,L,D,J
+   4,J
+   7
+   1,L,J,G
+   1,K,G
+   1,R,K
+  12,L,J,G
+  12,L
+  17
+  11,R
+   1,R,J
+   2,R,J
+  17,L,J
+   6,L,K,G
+   9,L
+  20,D
+   6,R
+  11,R,D,J
+   4,L,J
+  12,L,K,G
+  16,L
+   9
+  10,L
+  11,L,D,J
+  37,L,G
+   4
+   3,L,K,G
+   1,J
+  40
+ 
+read,9D_16_,lvl_q-05,lvl_r-00
+
+#lvl_r-00
+   2
+   8,R,D,X
+   1,R,J
+   7,R
+   4,R,J
+   1,K,G
+   5,R,K,G
+   2,R,J,G
+  21,R,D
+   1,D
+   4,R,J
+   6,R
+   1,R,J
+  14,R
+   1,R,J
+   2,R,K,G
+  11,R
+   4,R,J
+   6,R
+  11,R,D,J
+   1,L,K,G
+   2,R,K
+   6,L,J
+   1,R,K
+   6,R,J
+   1,R,K,G
+   5,R,J,G
+  14,R,D
+ 110
+  10,L
+  11,R
+   2,R,D,J
+   2,R
+   1,R,K,G
+   4,R,J,G
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   5,R
+   1,R,J
+  10,R,D,X
+   1,R,J
+   2,R
+  40
+
+
+ 

@@ -1,0 +1,128 @@
+console load nameguysdsidespack/0/10-Farewell 222371 -51312
+   1
+
+#lvl_w-07
+  36
+console giveberry
+   4,D,X
+   1,R,J
+   3,R
+  40
+
+#Start
+#lvl_w-08
+   4,R
+  11,R,J
+   1,J
+  14,R,D,X
+  52,R
+   1,R,J,G
+  29,R,K,G
+  39,R,J
+   5,R,D
+   4,D,X
+  15,R,X
+   7,U,C
+  13,G
+  10,R,G
+  13,L,G
+   7,R
+  14,R,U,X
+  13,R,G
+ 136,R,U,G
+   2,R,G
+   1,L
+  23,R,D,X
+   4,D,C
+   1,R,J
+   7,R
+   6,R,J
+   5,R
+   4,D,X
+  10,R,X
+   5,R,J
+   4,R,K,G
+   5,R,D,X
+  40
+
+#lvl_w-09
+   6,R
+   1,R,J
+  24,R,D
+   8,R
+   4,D,X
+  11,R,X
+  43,R
+   4,D,X
+   7,R,U,X
+  35,R
+  23,R,D,X
+  41,R
+   4,D,X
+   9,R,U,X
+  41,R
+  23,R,C
+  24,R,J
+  21,R,X
+  59,R,D
+   4,D,X
+  16,R,X
+   7,R,J
+   5,R
+   1,R,J
+  17,R,D
+   2,R
+  12,R,X
+   2,L,J
+   8,R,J
+  15,U,X
+  10,R
+   4,D,X
+   1,L,D,X
+
+   1,R,J
+   6,R
+   1,R,J
+   2,R
+  40
+
+read,9D_24_,lvl_w-10,lvl_w-15
+
+#lvl_w-15
+  81,R,U,G
+   8,R
+   5,R,X
+   5,R,J,G
+   3,R
+  13,R,G
+ 170,R,U,G
+  35,R,D,G
+   1,R,J,G
+ 106,R,U,G
+   1,L
+  13,R
+   4,D,X
+  11,R,U,X
+   8,L,J,G
+   6,L
+   1
+  10,L,D,X
+   2,L,J
+   5,R,K
+  15,D,C
+   1,J
+  14,R,D,X
+  34,R,J
+   1,J
+   1,R,J
+   4,D,C
+  16,U,C
+   2,L
+  21,R,U,X
+  15,R,U,C
+  17,R
+   4,D,X
+   2,R,X
+   1,R,J
+   4,R
+  40

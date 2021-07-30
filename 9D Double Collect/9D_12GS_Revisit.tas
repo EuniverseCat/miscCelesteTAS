@@ -1,0 +1,79 @@
+#By med and euni
+
+#0M
+console load nameguysdsidespack/0/10-Farewell j-00
+
+   1
+
+#Section 0M
+#j-00
+  36
+#Start
+read,9D_12S_,Start,spike cycle
+#spike cycle
+0
+#resume
+read,9D_12_,resume,j-09
+
+#j-09
+   7,R,D
+   7,R
+   8,R,X
+   1,J,G
+  10,R
+  18,L,D,G
+  27,L,G
+   4,D,X
+   1,R,J
+   2,J
+   8,R,J
+   2,R
+   9,R,D,X
+   2,R,J,G
+   6,R
+   1,R,J
+   2,R
+   1,R,J
+  40
+
+#lvl_j-10
+   3,R,J
+  11,R
+  14,R,U,X
+  39,R
+   9,R,X
+  39,L
+   4,D,X
+  12,L,U,X
+  57,R
+  15,R,D,X
+   8,R
+   3,R,D
+   4,D,X
+  21,R,X
+  15,R,U,C
+   6,R
+  37
+   7,R
+   9,R,U,X
+  36,L
+  15,L,U,X
+   3,L
+  37
+   9,L
+  30,L,X
+  25,R
+  17,R,U,X
+  17,R,U,C
+  30
+  17,R
+  16,L,U,X
+  30
+  11,L
+  14,U,X
+ 183
+  40
+
+read,9D_12_,k-01,k-07
+
+read,9D_12S_,k-07
