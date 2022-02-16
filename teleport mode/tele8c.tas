@@ -1,6 +1,7 @@
-RecordCount: 160
+RecordCount: 161
 
 console rmx2 9
+console hearts
 Set, ExtendedVariantMode.DashSpeed, 100
    1
 #Start

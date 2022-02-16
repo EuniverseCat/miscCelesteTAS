@@ -1,67 +1,78 @@
-RecordCount: 319
+RecordCount: 410
 
 console rmx2 4
-Set, ExtendedVariantMode.DashSpeed, 100
    1
 
 #Start
   61
-   2,R
-   4,R,X
-  46,R,U,J
-   5,R,U,Z
-  31,R,D
-  45,R
-   5,U,X
-   5,R,U,Z
-  20,R,D
-   5,R,U,Z
-  51,D
-   5,R,U,Z
-  57,R,D
+
+
+   4,X
+   1,R,J
+  17,R,D
+   1,R
+   1,R,D
+   1,R,G
+   5,R,J,G
+  41,R
+
+   6,R,U,X
+   1,J,G
+  38,D
+   6,R,U,X
+   1,R,J,G
+   6,L
+  27,R,D
+   1,R
+  11,L
    5,R,Z
+   1,R,J
+   7,R
+  40
 
 #Room 2
-#No control (40)
-  40
-   8,G
-   2,J
-   5,U,Z
-  19,D
-  49,L,J
-   2
+   1,R,J
+  14,R
+  10,R,J
+   5,R
+   1,R,K,G
+   1,K
+   5,R,K
+   1,K
+   2,R,K
+   1,K
    6,U,X
-  49,R,D
-   4,R,X
-   7,R,J
-  12,R,D
-#Room 3
-#No control 40
+   1,J
+   5,R,K,G
+  32,R
+   1,R,D
+   6,L
+   1,L,D
+   1,L
+   1,L,D
+   1,L
+   5,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  13,R
   40
-  10,R
-   4,R,X
-  30,R,J
-  20,D
-   5
-  27,R,J
-  21,R,D
-   5,R,U,Z
-  20,L,J
-  33,L,D
-  13,R,D
-   5,R,X
-   1
-   6,R,U,J,G
-   5,R,U,K,G
-   6,R,U,J,G
-   6,R,D
-  25,L,D
-   5,R,X
-  10
-   5,L,U,X
-  14,R,D,J
-  38,R,D
-   1
-   5,L,X
-
-#15.759
+   1,R
+   1,R,J
+  16,R
+   6,R,U,X
+   1,J,G
+  41,D
+   2,R
+   2,G
+  17,R
+   6,R,U,X
+   1,R,J,G
+  38,L,D
+  11,R,D
+   1,R,J
+  14,R
+   9,R,D,J
+   3,R
+   5,R,K
+ 143,R,X

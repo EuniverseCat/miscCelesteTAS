@@ -1,76 +1,41 @@
-RecordCount: 156
+RecordCount: 216
 
 console rmx2 6
-Set, ExtendedVariantMode.DashSpeed, 100
    1
-  69
 #Start
-   5,R,U,X
-   1
-   1,L,D,J
-  40,D
-   5,R,D,X
-
-#NC40
-  40
-#Room 2
-  45,L,J
-   5,D,X
-   1
-  21,R,U,J
-  10,R,U,K
-   5,R,U
-
-#Top of water
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  12,R
+  69
    2,R,J
-
-#NC40
+   7,R,U,X
+   1,J,G
+  27,D
+   5,R,X
   40
 
-#Room 3
-   2,R,J
-  34,R,D
-  28,D
-   5,L,X
-  38,L,D
    1,L,J
-   5,R,K
-  24,R,D
-   3
-   5,U,X
-  10,D
-  29,R,D
-  20,R,U,G
-   3,L,D,J
-  16,L,D
-  12,L,J
-  60,L,D
-   5,R,Z
-   3
-   1,J
-  37,D
-   9,L,D
-   7,L
-  10
-   5,R,U,X
-   1
-   1,J
-  29,D
-   8,R,D
-  10,D
-   6
-  24,R
-   5,U,X
-   1,R,J
-  37,R,D
-   5,X
+  31,L,D
+  15,L,D,X
+   5,R,D,C
+  40
 
+   1,R,J
+  45,D
+  13,L,D,X
+   2,R,J
+   7,R,D,X
+   1,R,J
+   1,K,G
+   7,R
+   5,R,Z
+   1,R,J
+   7,D
+  18,L,D
+  31,R
+   5,U,X
+   6,R,J
+   1,R
+   2,L
+  23,R,D
+   5,L,X
+  12
+   1,J
+ 121,D
