@@ -1,0 +1,27 @@
+RecordCount: 325
+
+console rmx2 5
+Set, ExtendedVariantMode.DashSpeed, 100
+   1
+
+#Start
+   1,R
+  60
+
+   5,R,Z
+   6,R,U,J,G
+   6,R,U,K,G
+   6,R,U,J,G
+  10,R,U,K,G
+   6,R
+  45,Z
+#Ground on frame 45 of dash
+#End room 1
+  20,D
+   5,R,U,Z
+   3,L,D,J
+  25,R,D
+   5,R,U,Z
+  18,D
+  21,L,D,J
+   5,L,X

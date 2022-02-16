@@ -1,0 +1,80 @@
+RecordCount: 111
+
+console rmx2 1
+Set, ExtendedVariantMode.DashSpeed, 100
+   1
+  61
+#Start
+   9,R
+  20,R,J,G
+  35,R,U,G
+   6,R,J,G
+   6,R,K,G
+   6,R,J,G
+  11,R
+   5,U,X
+  10
+  46,R
+  28,R,U,G
+   6,R,U,J,G
+   6,R,U,K,G
+   6,R,U,J,G
+   8,R,U,K,G
+  14,R
+   5,U,X
+  10
+  51,R
+  31,R,U,G
+   6,R,U,J,G
+   6,R,U,K,G
+  20,R,U,J,G
+  14,R
+   5,U,X
+  10
+  29,D
+   5,R,X
+
+#NC40
+  40
+
+#Room 2
+   1
+   1,J
+  45,R,D
+   5,R,Z
+   1
+  10,L,J
+  17,L,D
+  10,R,G
+  36,G
+   4,L,J,G
+  29,R,J
+   5,R,D,X
+   1,J
+  29,R,D
+   5,R,X
+
+#NC40
+#Room 3
+  40
+   1,L,J
+  21,R,D
+
+   5,R,U,Z
+   2
+   2,L,J
+  52,D
+   5,R,X
+   3,L
+  21,R,U,G
+   1
+  10,J
+  12,R,G
+  38,L,J,G
+   1,R,J
+  28,D
+   5,R,X
+  49,G
+  12,J
+  20,R,J
+   5,R,X
