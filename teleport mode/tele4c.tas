@@ -5,8 +5,6 @@ console rmx2 4
 
 #Start
   61
-
-
    4,X
    1,R,J
   17,R,D
@@ -30,7 +28,7 @@ console rmx2 4
    7,R
   40
 
-#Room 2
+#01
    1,R,J
   14,R
   10,R,J
@@ -57,6 +55,8 @@ console rmx2 4
    1,R,J
   13,R
   40
+
+#02
    1,R
    1,R,J
   16,R
