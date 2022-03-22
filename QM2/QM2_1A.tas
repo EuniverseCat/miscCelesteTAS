@@ -40,55 +40,50 @@ console load flowerhouse/QM2/1_TerminalVelocity
   15,R,Z
    7,R
   81,L,D
-  17,R,D
-   7,R
-  58,R,D
+  30,R,D
+   1,R
+  51,R,D
    1,L,D
-  38,D
-   7
+  33,D
+   9
    3,L
    1
   10,L,X
-  11,L,J
-   8,L
+  19,L,J
   34,L,U,X
   22,L,D
  101,R,D
   64,L,D
   21,R,D
-  16,L,D
+  15,L,D
   40
 
 #lvl_2a
-  85,L,D
+  87,L,D
    1,R,D
-  28,D
+  27,D
   24,R,D
-  18,D
+  17,D
    9,R,Z
   17,R,U,C
   17,R,U,X
   15,R,C
-  16,R,D
-  32,L,D
-  27,L,C
-
-  18,L,X
-   1,L,J,G
-   4,R,J
-   7,L,J
-   1,L,K,G
-   4,L,J,G
-  24,L,D
-   4,D
-   1,L,D
-   1,D
-  35,R,D,X
-  19,R,U,C
-
-   8,R
-  22,R,D,X
-  47,L,D
+  15,R,D,X
+  14,D
+  10,R,D
+  10,L,D
+  15,D,X
+  10,R,D,C
+   1,L,J
+   2
+   1,J
+   1,L,J
+   1,L
+   4,L,J
+   3,L,D
+  16,D,X
+  20,R,D
+  40,L,D
    4,Z
    2,L,J
    4,L
