@@ -31,16 +31,25 @@ console hard flowerhouse/QM2/3_HotPotato
 #lvl_1a
    4,R,D,X
    1,R,J
-  10,R,D,X
-  14,R,J
-   9,U,X
+   5,R
+   2
   11,R,J
-  22,R,D
-   7,D
-   9,R,D
+  13,R,U,Z
+   1,L
+   4,J,G
+   2
+   4,R,K,G
+   5,R
+   1,R,J
+   1,J
+  16,D
+   7,R,D
+   1,R
   67,R,J
-   3,R,D
-   2,R
+   2,R,D
+   1,D
+   1,D
+   1,D
   15,R,X
    2,R,J,G
 
@@ -72,16 +81,16 @@ console hard flowerhouse/QM2/3_HotPotato
   21,R,D
    2,R,J
   21,R,Z
-   1
+   1,R
    1,R,D
 
 
   12,U,X
   23,R
   15,R,U,X
-  29,R,D
-   1,R,J
-   5,J
+  28,R,D
+   2,R,J
+   4,J
    2
   13,R,Z
   26,R
