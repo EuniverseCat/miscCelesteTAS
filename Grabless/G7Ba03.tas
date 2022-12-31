@@ -1,0 +1,45 @@
+console hard 7 a-03
+  37
+  10,R,Z
+   5,R,J
+  43,R,U,X
+  15,R,Z
+  13,U,X
+  43,L
+  13,L,X
+repeat,10
+   1,S,N
+   1,X
+   9
+   2,L
+endrepeat
+   1,S,N
+   1,X
+   9
+   5,L,X
+repeat,27
+   1,S,N
+   1,X
+   9
+   2,L
+endrepeat
+   1,S,N
+   1,X
+   9
+   5,L,U,X
+
+repeat,6
+   1,S,N
+   1,X
+  11
+endrepeat
+  45,R
+  15,R,X
+  17,R,C
+  20,L,D
+   2
+  15,R,U,X
+  14,R,U,C
+  48,L
+  33,L,U,X
+ 100,L,Z

@@ -1,0 +1,313 @@
+console hard 9 b-03
+  37
+
+3547
+***
+  19,R,D,J
+   1,R,K
+  27,R,J
+   3,K
+  31,R,U,X
+  25,R,J
+   8,R,X
+  23,R
+  16,L,D
+  21,R
+   8,R,D
+   1,J
+   6,R,J
+repeat,9
+   1,S,N
+   1,X
+   9
+   2,R,J
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,K
+   1,R,K
+endrepeat
+
+repeat,4
+   1,S,N
+   1,X
+   9
+   2,R,K
+endrepeat
+
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,R,K
+   1,R
+endrepeat
+repeat,7
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,R
+   1,J
+endrepeat
+
+repeat,15
+   1,S,N
+   1,X
+   9,J
+   2,R,J
+endrepeat
+
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,R,J
+   4,X
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   2,U
+endrepeat
+repeat,11
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   8,R,U,X
+endrepeat
+repeat,10
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+  33,R
+  25,R,U,Z
+   5
+  15,R,Z
+  24,L,D
+  14,R
+   7,R,D
+   3,R
+   1,R,D
+   1,J
+  24,R,J
+   1,K
+   2,R,K
+repeat,11
+   1,S,N
+   1,X
+   9
+   2,R,K
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,R,K
+   1,J
+endrepeat
+repeat,16
+   1,S,N
+   1,X
+   9,J
+   2,R,J
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   5,U,X
+endrepeat
+repeat,10
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   2
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,R
+   4,Z
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   5,R,U
+endrepeat
+repeat,12
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+  13,R
+
+
+
+
+   7,R
+  29,R,Z
+   3,R,D
+   1,S,N
+   1,X
+   9
+   1,R,D
+   1,R
+   1,S,N
+   1,X
+   9
+   2,R
+   1,S,N
+   1,X
+   9
+   5,R,U,Z
+repeat,11
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   5,R
+endrepeat
+repeat,8
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,R
+   1,J
+endrepeat
+
+repeat,3
+   1,S,N
+   1,X
+   9
+   2,L,J
+endrepeat
+repeat,18
+   1,S,N
+   1,X
+   9
+   2,L
+endrepeat
+   1,S,N
+   1,X
+   9
+   2,L,D
+   1,S,N
+   1,X
+   9
+   1,J
+   1,L,J
+
+repeat,11
+   1,S,N
+   1,X
+   9
+   2,L,J
+endrepeat
+   1,S,N
+   1,X
+   9
+   1,L,J
+   1,K
+
+repeat,5
+   1,S,N
+   1,X
+   9,K
+   2,L,K
+endrepeat
+repeat,8
+   1,S,N
+   1,X
+   9
+   2,L
+endrepeat
+repeat,1
+   1,S,N
+   1,X
+   9
+   1,L
+   4,X
+endrepeat
+   1,S,N
+   1,X
+   9
+   2,U
+
+repeat,15
+   1,S,N
+   1,X
+   9
+   2
+endrepeat
+   1,S,N
+   1,X
+   9
+   8,R,X
+
+repeat,8
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+  10,R
+   3,R,D
+  39,R,U,X
+  34,R,Z
+   8,R,J
+   5,R
+   1,R,J
+   3,R
+   9,L,K
+   5,L
+   2,L,J
+   1,K
+  24,R,K
+   1,J
+  11,R,J
+  16,R
+   1,R,J
+  14,R
+   4,R,J
+   6,R
+   4,R,J
+   6,R
+   1,R,J

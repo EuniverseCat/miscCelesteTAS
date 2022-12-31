@@ -1,0 +1,78 @@
+console rmx2 9 01
+  37
+   6,L,Z
+  40
+   1,R,J
+  40
+repeat,6
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+repeat,12
+   1,S,N
+   1,X
+   9
+   2
+endrepeat
+   1,S,N
+   1,X
+   9
+   1,R
+   4,Z
+repeat,2
+   1,S,N
+   1,X
+   9
+   2
+endrepeat
+   1,S,N
+   1,X
+   9
+   1
+   1,R,J
+   1,S,N
+   1,X
+   9
+   5,R,J
+
+
+   2,R
+
+repeat,6
+   1,S,N
+   1,X
+   9
+   2,R,J
+endrepeat
+
+repeat,4
+   1,S,N
+   1,X
+   9
+   2,R
+endrepeat
+
+   7,R
+   2,R,D
+   1,R,D
+   1,R,J
+   5,R
+   4,R,J
+   4,R
+  12,U,X
+  55,R,J
+  46,R,U,X
+  56,R,U,Z
+  47,D
+  11,L,D
+  35,R
+   6,U,X
+  32,R
+   9,U,X
+  47,R,D
+   4,L,D
+  15,R,D
+   1,R,J
+  10,R
