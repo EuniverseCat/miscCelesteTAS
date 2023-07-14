@@ -1,58 +1,75 @@
-console rmx2 9 01
-  37
-   6,L,Z
-  40
-   1,R,J
-  40
-repeat,6
-   1,S,N
-   1,X
-   9
-   2,R
-endrepeat
-repeat,12
-   1,S,N
-   1,X
-   9
-   2
-endrepeat
-   1,S,N
-   1,X
-   9
-   1,R
-   4,Z
-repeat,2
-   1,S,N
-   1,X
-   9
-   2
-endrepeat
-   1,S,N
-   1,X
-   9
+console rmx2 9
    1
+  61
+   4,Z
+  33,R,J
+  12,K
+  10,R,X
+   3,J
+   1,K
+  25,R,K
+   1,K
+  14,U,X
+   1,J
+  15,L,D,X
+  46,R
+  90
+  10,R,J
+  14,R,D,X
+  21,L,J
+  14,L,D,X
+   1,L,J
+   4,L
+   1,L,J
+   3,L
+   7,R,D,Z
    1,R,J
-   1,S,N
-   1,X
-   9
-   5,R,J
-
-
-   2,R
-
-repeat,6
-   1,S,N
-   1,X
-   9
+   6,R
+   9,R,J
+   7,R
+  18,R,U,Z
+   1,R,J
+   1,R,K
+   1,R,J
+   7,R
+   1,R,J
+  13,R,D,X
    2,R,J
-endrepeat
-
-repeat,4
-   1,S,N
-   1,X
-   9
+   5,R,D,X
+  40
+   9,R,D,X
+  16,R,J
+  14,R,D,X
+  29,R,J
+  14,R,D,X
+  17,R,J
+  10,R
+   4,R,J
+   5,R
+  17,R,J
+  14,R,Z
+   6,R,J
    2,R
-endrepeat
+  40
+   2,R
+
+stunpause
+  19,R
+  16
+   1,R
+skipinput,3,1
+   9,R,Z
+   2,R,J
+endstunpause
+
+   4,R,J
+   1,R
+
+stunpause
+   1,R
+  12,R,J
+   8,R
+endstunpause
 
    7,R
    2,R,D
@@ -63,16 +80,144 @@ endrepeat
    4,R
   12,U,X
   55,R,J
-  46,R,U,X
-  56,R,U,Z
-  47,D
-  11,L,D
-  35,R
+  47,R,U,X
+  55,R,U,Z
+  51,D
+   8,L,D
+  34,R
    6,U,X
   32,R
    9,U,X
   47,R,D
    4,L,D
-  15,R,D
+  14,R,D
    1,R,J
   10,R
+  40
+
+#lvl_02
+   4,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  25,R,J
+  10,R
+  23
+   9,L,Z
+   1,R,J
+   7,R
+  10,R,J
+   3,R
+   1,R
+  18,R,D,X
+   3,R,J
+   5,R
+   1,R,J
+   6,R
+   2,R,D
+  27,R,J
+  16,R,D,X
+   9,R,J
+   1,R
+  19,R,D,X
+   2,R,J
+  15,R,D,X
+   8,R,J
+   6,R,J
+  44,R,K
+  30,R,U,X
+  33,R,U,C
+  15,R,U,X
+  15,R,U,Z
+
+  10
+   1,R
+  12,L
+  18,R,D,X
+   2,R
+
+   9,R
+  15,U,X
+
+   6,R
+   3
+   1,R
+   9
+  15,R,D,X
+  14,R
+  27,R,U,X
+  15,U,C
+  25,R
+   5,R,D
+  35,R,J
+  42,R,U,X
+   2,R,D
+
+  37,R,U,C
+  14,R,Z
+   1,R,J
+   8,R
+   4,R,J
+  35,R
+   7,J
+  19,R
+   7,J
+  19,R
+   8,J
+  18,R
+   7,J
+  39,R
+   1,J
+  24,R,J
+   7,K
+  19,R
+   8,J
+  19,R
+   1,J
+  19,R,J
+   3,R
+  16,L,D
+   1,R,D
+  28,R
+   1,J
+  11,R,J
+  14,R
+   7,K
+   5,R
+  16,R,K
+  11,R
+   4
+  13,R
+   9,R,J
+  13,R
+   3,R,J
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   3,R,J
+  19,R
+   1,R,J
+  18,R,D
+   1,R,J
+  18,R,D
+   2,R,J
+  13,R
+  14,R,D,X
+   1,R,J
+   8,R
+   6,R,J
+   5,R
+  10,R,J
+  14,R,D,X
+  36,R,J
+  21,R,X
+  22,R,C
+  54,R,X
+  88,R,C
