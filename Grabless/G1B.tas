@@ -12,14 +12,12 @@ console hard 1
    3,R,J
    5,R
   23,R,J
-   5,R,K
-  30,R,D
-   1,J
-   9,R
-   8,L
+  12,R,K
+  36,R
+   3,R,D
   27,R,J
    9,K
-   9,J
+   8,J
    1,K
    7,R,K
    5,R
@@ -33,27 +31,29 @@ console hard 1
   40
 
 #lvl_01
-  16,J
-   2,R,J
-   6,R,K
-   5,R
-   3,R,J
+   1
+  30,R,J
+   2,J
+   1,R,K
    6,R
-   2
-  46,R,J
-   4,R,D
-  15,R,U,X
-   7,R
-   6,L
-   1,J
-  24,L,J
+  12,R,J
+  20,R,D
+   5,L,D
+   2,L
+   1,L,D
+   3,L
+  20,R,J
+   1,R,K
+   1,R,J
+   8,R
+   1,R,J
+   9,R
+  18,R,J
+  20,R,U,X
+  12,L,J
    1,K
-  25,L,K
-  43,R,J
-   1,K
-  25,R,K
-  11,L,J
-  11,R,K
+   8,R,K
+   3,K
    8,L,J
   40
 
@@ -179,27 +179,29 @@ console hard 1
    2,R
   15,R,X
   44,R,D
-   4,D,X
-   1,R,J
-   7,R
+   8,R,Z
+   2,R,J
+   4,R
    1,R,J
   40
+   3,R
 
 #lvl_04
-  10,R,J
-   7,R
-  19,L
-   7,L,X
-   8,R
-   9,L
+   6,R,J
+   5,R
+   7,R,J
+  17,R,D,X
+
+  12
+   4,R
   11,R,J
    1,K
    7,L
   32,D
    4,D,X
   11,R,U,X
-   5,R,J
-  19,R
+   4,R,J
+  17,R
   16,L
    1,R,J
    9,R,K
@@ -231,16 +233,17 @@ console hard 1
 #lvl_05b
    1
    4,J
-   5
+   4
    1,R
+   1
   10,R,D,X
-  20,R,J
-  31,R,U,X
-  11,U,C
-   7,R,J
-  17,R
-  10,D
-  14,R,D
+  17,R,J
+  10,U,X
+  14,R,J
+  19,R,X
+  28,R,U,C
+   9,D
+  18,R,D
    4,D,X
    7,R,U,X
    1,R,J
@@ -358,21 +361,16 @@ console hard 1
   40
 
 #lvl_08b
-  34,R,G
-   5,J
-   7,L,K
-  11,L,J
-  27,K
-   9,J
-   7
-   2,J
-   7
-   5,R
+  19,R,D,G
+
+  73,R,U,G
+   1,R,D,G
    1,J
-  11,L,J
+   2,L
+  15,L,J
    1,J
    1,L,J
-   4,J
+   1,J
    1,L,J
    1,R,J
    2,R
@@ -516,28 +514,29 @@ console hard 1
    8,L
    2,L,J
   18,L
-  17,U,X
-   8,R
-   8,R,X
-  11,R,J
-   7,R
+#1:19.509(4677)
 
-   6,R,X
-  11,R,J
-   8,R
-   4,R,J
-  19,R,U,X
-   7,L
+  15,U,X
+   2,R
+   2
+   1,R
+   1
+   1,R
+   2
+   1,R
+   9,L,Z
+   1,R,J
    3
-   1,L,J
-  13,L
-   1,J
-  10
-   1,L,K
-  36,L,J
-  39,L,U,G
-  34,R,J
-  12,R
+   3,R
+  12,R,J
+   2,R
+   7
+  14,L,X
+  19,L,J
+  15,U,X
+  48,L,U,G
+  33,R,J
+  13,R
   38,U,G
    1,L,J
   18,J
@@ -545,26 +544,23 @@ console hard 1
    1,L,K
    1,L,J
    4,L
+
    1,L,J
-  13,L,K
-   1,R,J
-  13,R,K
-   3,J
+  11,L,K
+  11,L,J
+   7,L,K
   40
 
 #lvl_end
-  11,R
-  15,R,U,X
-  19,R
-   5,R,D,X
+   7,L
+   4
+  14,R,D,X
    1,R,J
-   7,R
-   2,R,J
-  15,R,D,X
-  15,R,J
-  13,U,X
-  30,R,J
-   9,R
+  28,R,U,X
+  29,R,J
+  19,R,U,X
+   1,J
+  26,R,J
   10,R,D,X
    4,R,J
   18,R,D
