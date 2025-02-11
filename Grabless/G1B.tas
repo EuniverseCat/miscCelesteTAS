@@ -8,7 +8,6 @@ console hard 1
    1,J
    4,R,J
   14,U,X
-
    1,R,J
    1,K
    9,R
@@ -243,13 +242,15 @@ console hard 1
 
 #lvl_05
   10,R,J
-  51,R,G
+  49,R,G
    5,R,J,G
   12,R
-  30,L,D
-   5,R,D
+  29,L,D
+   1,D
+   4,R,D
+   1,D
   10,R,J
-  32,R,X,G
+  31,R,X,G
   37,U,G
    9,J,G
   40
