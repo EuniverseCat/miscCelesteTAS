@@ -92,7 +92,9 @@ endstunpause
    9,U,X
   47,R,D
    4,L,D
-  14,R,D
+  13,R,D
+#delay 1f for spinners
+   2,L
    1,R,J
   10,R
   40
@@ -100,126 +102,86 @@ endstunpause
 #lvl_02
    4,R
    1,R,J
-  14,R
+   7,R
+   1
+   6,R
    1,R,J
   14,R
   25,R,J
   10,R
-  23
-   9,L,Z
-   1,R,J
-   7,R
-  10,R,J
-   3,R
    1,R
+   1,R
+   1,R
+   2,R
+   1,R
+   4,R
+   3
+   1,R,J
+   1,L
+   4,L
+   3,L
+   2,L,J
+   6,L
+   4,L,Z
+   1,R,J
+   4,R
+  11,R,J
+   2,R
   18,R,D,X
    3,R,J
    5,R
-   1,R,J
-   6,R
-   2,R,D
-  27,R,J
-  16,R,D,X
-   9,R,J
    1,R
-  19,R,D,X
-   2,R,J
+   5,R
+   2,R,D
+  20,R,J
+   4,R
+  16,R,D,X
+   6,R,J
+   3,R
+  18,R,D,X
+   1,R,J
   15,R,D,X
    8,R,J
-   6,R,J
-  44,R,K
-  30,R,U,X
-  33,R,U,C
-  15,R,U,X
+   5,R,J
+  31,R,K
   15,R,U,Z
-
-  10
+  16,R
+  20,R,U,X
+  10,R
+  15,R,U,C
    1,R
-  12,L
-  18,R,D,X
-   2,R
-
-   9,R
-  15,U,X
-
-   6,R
-   3
-   1,R
-   9
-  15,R,D,X
-  14,R
-  27,R,U,X
-  15,U,C
-  25,R
-   5,R,D
-  35,R,J
-  42,R,U,X
-   2,R,D
-
-  37,R,U,C
-  14,R,Z
+  15,R,X
+  23,R,D
    1,R,J
-   8,R
-   4,R,J
-  35,R
-   7,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   3,R,J
   19,R
-   7,J
-  19,R
-   8,J
+   1,R,J
   18,R
-   7,J
-  39,R
-   1,J
-  24,R,J
-   7,K
-  19,R
-   8,J
-  19,R
-   1,J
-  19,R,J
-   3,R
-  16,L,D
-   1,R,D
-  28,R
-   1,J
-  11,R,J
-  14,R
-   7,K
+   1,R,J
+  18,R
+   1,R,J
+   6,R
+   3,R,J
    5,R
-  16,R,K
-  11,R
-   4
-  13,R
-   9,R,J
-  13,R
-   3,R,J
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   3,R,J
-  19,R
-   1,R,J
-  18,R,D
-   1,R,J
-  18,R,D
-   2,R,J
-  13,R
   14,R,D,X
    1,R,J
-   8,R
-   6,R,J
-   5,R
-  10,R,J
-  14,R,D,X
-  36,R,J
-  21,R,X
-  22,R,C
-  54,R,X
-  88,R,C
+   7,R
+   5,R,J
+   1,R
+  21,R,J
+   1,R,K
+  12,R,D,X
+  34,R,J
+  15,R,X
+  15,R,C
+   7,R
+  38,R,X
+ 104,R,C
+ChapterTime: 0:36.618(2154)
